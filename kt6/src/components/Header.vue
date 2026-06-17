@@ -13,7 +13,7 @@
     </div>
   </header>
 
-  <!-- Hero секция -->
+
   <section class="hero">
     <div class="hero-wrap">
       <h1>Find a <span>host</span> for every journey</h1>
